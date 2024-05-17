@@ -39,7 +39,7 @@
     height: auto;
 }
 .cooleffect:hover{
-    filter: brightness(128.125%);  
+    filter: saturate(150%) ;  
 }
 .biotext {
     font-size: 25px;
